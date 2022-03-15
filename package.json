@@ -1,0 +1,20 @@
+{
+    "name": "accountmastersample",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "import": "node importer.js",
+        "export": "node exporter.js"
+    },
+    "author": "DreamArts Corporation",
+    "license": "UNLICENSED",
+    "type": "module",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "lodash": "^4.17.21"
+    },
+    "engines": {
+        "node": ">=14.17"
+    }
+}

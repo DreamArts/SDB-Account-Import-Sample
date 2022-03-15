@@ -1,0 +1,5 @@
+{
+    "host": "https://{your_host_name}.smartdb.jp/",
+    "accessToken": "systemKey",
+    "withInactive": true
+}
